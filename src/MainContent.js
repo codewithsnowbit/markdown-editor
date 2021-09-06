@@ -3,7 +3,7 @@ import { sampleText } from './SampleText'
 import './styles/MainContent.css'
 import marked from 'marked';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CodeMirror from '@uiw/react-codemirror';
+// import CodeMirror from '@uiw/react-codemirror';
 import 'codemirror/keymap/sublime';
 import 'codemirror/theme/vibrant-ink.css';
 
